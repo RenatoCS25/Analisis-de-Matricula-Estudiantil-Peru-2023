@@ -63,7 +63,7 @@ Se generan y guardan estos gráficos:
 
 ---
 
-## 📈 Resultados esperados
+##  Resultados esperados
 
 - Identificación de grupos estudiantiles con mayor riesgo
 - Base de conocimiento para planes de intervención educativa
@@ -71,7 +71,7 @@ Se generan y guardan estos gráficos:
 
 ---
 
-## 🧪 Ejecución del proyecto
+##  Ejecución del proyecto
 
 ### 1. Clonar el repositorio
 ```bash
