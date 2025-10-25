@@ -1,10 +1,10 @@
-# 🎓 Análisis de Matrícula Estudiantil - Perú 2023
+#  Análisis de Matrícula Estudiantil - Perú 2023
 
 Este proyecto realiza un análisis de datos académicos reales de estudiantes peruanos matriculados en el año 2023. El objetivo es extraer información valiosa sobre las características de los estudiantes, su distribución en las instituciones y detectar factores asociados al riesgo académico.
 
 ---
 
-## 📌 Objetivo General
+##  Objetivo General
 
 Analizar y modelar datos de matrícula educativa en Perú para:
 
@@ -15,7 +15,7 @@ Analizar y modelar datos de matrícula educativa en Perú para:
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 - **Fuente**: [Kaggle - Peru Student Enrollment Data 2023](https://www.kaggle.com/datasets/miguelmallqui17/peru-student-enrollment-data-2023)
 - **Formato**: CSV (`;` delimitado)
@@ -26,8 +26,7 @@ Analizar y modelar datos de matrícula educativa en Perú para:
   - `NUMBER OF ENROLLED COURSES`, `AT-RISK COURSE`
 
 ---
-
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Python 3.12
 - Pandas, NumPy
@@ -37,7 +36,7 @@ Analizar y modelar datos de matrícula educativa en Perú para:
 
 ---
 
-## 📊 Fases del Proyecto
+##  Fases del Proyecto
 
 ### 1. **Carga y Limpieza de Datos**
 - Conversión de variables numéricas (pagos, cursos)
