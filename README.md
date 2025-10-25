@@ -14,7 +14,21 @@ Analizar y modelar datos de matrícula educativa en Perú para:
 - Predecir el riesgo académico usando técnicas de Machine Learning.
 
 ---
+##  Preguntas de análisis
 
+¿Qué facultades concentran la mayor cantidad de estudiantes?
+
+¿Cuál es la distribución de matrícula por género y edad?
+
+¿Qué porcentaje de estudiantes se encuentra en riesgo académico?
+
+¿Existe relación entre el riesgo académico y el estado de pago de matrícula?
+
+¿Qué variables influyen más en la predicción del riesgo académico?
+
+¿Qué conclusiones pueden ayudar a mejorar la retención estudiantil?
+
+---
 ##  Dataset
 
 - **Fuente**: [Kaggle - Peru Student Enrollment Data 2023](https://www.kaggle.com/datasets/miguelmallqui17/peru-student-enrollment-data-2023)
