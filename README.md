@@ -16,17 +16,17 @@ Analizar y modelar datos de matrícula educativa en Perú para:
 ---
 ##  Preguntas de análisis
 
-¿Qué facultades concentran la mayor cantidad de estudiantes?
+1.¿Qué facultades concentran la mayor cantidad de estudiantes?
 
-¿Cuál es la distribución de matrícula por género y edad?
+2.¿Cuál es la distribución de matrícula por género y edad?
 
-¿Qué porcentaje de estudiantes se encuentra en riesgo académico?
+3.¿Qué porcentaje de estudiantes se encuentra en riesgo académico?
 
-¿Existe relación entre el riesgo académico y el estado de pago de matrícula?
+4.¿Existe relación entre el riesgo académico y el estado de pago de matrícula?
 
-¿Qué variables influyen más en la predicción del riesgo académico?
+5.¿Qué variables influyen más en la predicción del riesgo académico?
 
-¿Qué conclusiones pueden ayudar a mejorar la retención estudiantil?
+6.¿Qué conclusiones pueden ayudar a mejorar la retención estudiantil?
 
 ---
 ##  Dataset
