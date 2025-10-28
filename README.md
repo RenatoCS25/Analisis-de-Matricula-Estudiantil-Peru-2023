@@ -3,63 +3,39 @@
 Este proyecto realiza un análisis de datos académicos reales de estudiantes peruanos matriculados en el año 2023. El objetivo es extraer información valiosa sobre las características de los estudiantes, su distribución en las instituciones y detectar factores asociados al riesgo académico.
 
 ---
-##  2. OBJETIVOS DEL ANÁLISIS
+## 💡 2. DEFINICIÓN DEL PROBLEMA DE NEGOCIO
 
-### 2.1 Objetivo General
-El objetivo general de este análisis es identificar los patrones, tendencias y determinantes de la matrícula estudiantil en el sistema educativo peruano durante el año 2023, con el propósito de comprender los factores que influyen en la permanencia, deserción y éxito académico de los estudiantes. A partir de esta evidencia, se busca formular estrategias y recomendaciones que contribuyan a mejorar el acceso, la equidad y la calidad educativa en el país.
+En el sistema educativo peruano, uno de los principales desafíos es comprender los factores que influyen en la matrícula y permanencia de los estudiantes. A pesar de los avances en cobertura, aún existen diferencias notables entre zonas urbanas y rurales, tipos de institución y niveles educativos. Esta situación genera desigualdades en el acceso, la retención y las oportunidades de aprendizaje, lo que afecta la equidad del sistema educativo.
 
----
-
-### 2.2 Objetivos Específicos
-
-1. Caracterizar la matrícula estudiantil en los distintos niveles educativos, analizando su distribución por edad, género, ubicación geográfica y tipo de institución, para comprender cómo se comporta la demanda educativa en el país.
-
-2. Analizar las brechas y desigualdades en el acceso a la educación, identificando diferencias por género, zona urbana o rural y nivel socioeconómico, con el fin de reconocer los grupos y regiones más vulnerables.
-
-3. Comparar la matrícula entre instituciones públicas y privadas, evaluando la distribución de recursos, la capacidad instalada y la evolución de la preferencia de los estudiantes hacia uno u otro tipo de gestión.
-
-4. Identificar los factores que explican la deserción estudiantil, mediante el uso de análisis estadístico o modelos predictivos que permitan detectar estudiantes en riesgo y anticipar posibles escenarios de abandono escolar.
-
-5. Examinar la demanda por carreras y programas académicos, determinando cuáles presentan mayor o menor número de matriculados y cómo se relacionan con las necesidades actuales del mercado laboral.
-
-6. Proponer recomendaciones estratégicas orientadas a mejorar la cobertura, la retención y la calidad educativa, impulsando políticas diferenciadas y el uso eficiente de los recursos en el sistema educativo peruano.
-
+El problema central radica en la falta de información integrada y analizada que permita identificar patrones y causas relacionadas con la deserción, concentración de matrícula o brechas de acceso. El análisis de la matrícula estudiantil de 2023 busca aportar evidencia para orientar decisiones y políticas públicas basadas en datos.
 
 ---
 
-##  3. PREGUNTAS DE INVESTIGACIÓN
+### Preguntas de negocio
 
-¿Cómo ha evolucionado la matrícula en Perú entre 2019 y 2023, y cuáles son las proyecciones para 2024-2025?  
-- Impacto de la pandemia (2020-2021) y recuperación posterior.  
-- Niveles educativos y regiones con mayor dinamismo.
-  
-¿Cuáles son las características demográficas y socioeconómicas de los estudiantes?  
-- Distribución por género, edad, zona urbana/rural y nivel socioeconómico.  
-- Proporción de estudiantes que trabajan o pertenecen a sectores vulnerables.
+1. ¿Cómo se distribuye la matrícula estudiantil según edad, género, nivel educativo y tipo de institución en el Perú durante 2023?  
+2. ¿Existen diferencias significativas entre la matrícula en instituciones públicas y privadas a nivel nacional y regional?  
+3. ¿Qué regiones o departamentos presentan mayores niveles de desigualdad educativa o menor cobertura escolar?  
+4. ¿Cuáles son los factores más asociados a la deserción estudiantil y cómo pueden anticiparse?  
+5. ¿Qué tendencias se observan en la demanda por áreas académicas o programas educativos en los distintos niveles?  
+6. ¿Qué estrategias podrían aplicarse para mejorar la retención y reducir las brechas educativas?
 
-¿Existen desigualdades significativas en el acceso educativo?  
-- Brechas de género, ubicación y nivel socioeconómico.  
-- Departamentos con menor cobertura o población no atendida.
+---
 
-¿Cómo se distribuye la matrícula entre instituciones públicas y privadas?  
-- Factores asociados a la elección de gestión.  
-- Diferencias en retención, cobertura y desempeño.
+### Objetivo general
 
-¿Qué factores predicen la deserción estudiantil y qué proporción de alumnos está en riesgo?  
-- Perfil del estudiante vulnerable.  
-- Variaciones por nivel educativo y tipo de institución.
+Identificar los patrones, tendencias y determinantes de la matrícula estudiantil en el sistema educativo peruano durante el año 2023, con el fin de comprender los factores que influyen en la permanencia, deserción y acceso equitativo a la educación, y así generar información útil para la toma de decisiones y políticas educativas.
 
-¿Cuáles son las carreras más y menos demandadas, y cómo se alinean con la empleabilidad?  
-- Carreras emergentes vs saturadas.  
-- Ajustes necesarios en la oferta académica.
+---
 
-¿Cómo se distribuye la matrícula en el territorio nacional?  
-- Relación entre matrícula y PIB regional.  
-- Zonas con déficit de infraestructura y necesidad de inversión.
+### Objetivos específicos
 
-¿Qué acciones pueden mejorar el acceso, la retención y la equidad educativa?  
-- Impacto de programas de becas y apoyo.  
-- Políticas efectivas en zonas rurales y en equidad de género (especialmente en STEM).
+1. Analizar la distribución de la matrícula por edad, género, nivel educativo, tipo de institución y ubicación geográfica.  
+2. Detectar las brechas de acceso y desigualdades entre zonas urbanas y rurales, así como entre regiones del país.  
+3. Evaluar la evolución de la matrícula en instituciones públicas y privadas y su impacto en la cobertura educativa.  
+4. Identificar los factores que influyen en la deserción estudiantil utilizando herramientas analíticas o predictivas.  
+5. Examinar la relación entre la matrícula y la demanda de áreas académicas en función del contexto socioeconómico.  
+6. Proponer estrategias y recomendaciones orientadas a fortalecer la cobertura, equidad y retención en el sistema educativo.
 
 ---
 
