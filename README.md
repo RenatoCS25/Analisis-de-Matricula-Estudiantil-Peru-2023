@@ -105,31 +105,38 @@ En el plano territorial, las desigualdades son marcadas. Lima, Arequipa, Ica, Mo
 
 Finalmente, el ratio estudiante-docente promedia 18 por cada profesor, dentro del rango aceptable según estándares internacionales, aunque en zonas rurales asciende a 28:1, lo que refleja un déficit docente estimado en 15,000 profesores. Estas evidencias confirman que el sistema educativo peruano enfrenta un doble desafío: mejorar la equidad territorial y socioeconómica, y adaptar su oferta formativa a las transformaciones tecnológicas y laborales emergentes.
 
----
+## 5.Insights
 
-## 5. INSIGHTS 
+1. **Primer año como etapa crítica**  
+   La mayoría de los casos de deserción ocurren durante el primer año. Este periodo requiere acompañamiento académico y emocional, ya que una intervención temprana puede prevenir el abandono.
 
-El primer año se confirma como el punto más crítico del ciclo educativo. Cerca del 70% de los estudiantes que abandonan lo hacen dentro de los primeros 18 meses, evidenciando que la deserción no es un evento repentino, sino un proceso acumulativo. La etapa inicial requiere un enfoque de acompañamiento intensivo, con programas de inducción, cursos de nivelación, mentoría entre pares y detección temprana de señales de riesgo académico o emocional. Una intervención oportuna en este periodo puede reducir significativamente la pérdida de estudiantes.
+2. **Impacto del factor económico**  
+   Las razones financieras siguen siendo la principal causa de deserción. Becas, apoyos parciales y horarios flexibles pueden marcar la diferencia en la continuidad educativa.
 
-El factor económico sigue siendo el principal determinante de la permanencia. Cuatro de cada diez estudiantes abandonan por razones financieras y no por bajo rendimiento, lo que demuestra que los programas de apoyo económico tienen un retorno social muy alto. Becas parciales o subsidios en transporte y materiales logran un impacto similar al de las becas completas, mientras que la flexibilidad horaria y las prácticas remuneradas permiten a los estudiantes sostener sus estudios. Vincular a las universidades con empresas locales se presenta como una oportunidad para combinar formación y empleabilidad.
+3. **Cambio en el perfil del estudiante**  
+   Cada vez más estudiantes son adultos trabajadores o con responsabilidades familiares. Esto exige modalidades más flexibles y accesibles, como programas virtuales o nocturnos.
 
-El perfil del estudiante peruano ha cambiado de forma estructural. El estudiante típico de 18 años dedicado exclusivamente al estudio ya no representa la mayoría. Hoy, más de un tercio son adultos trabajadores mayores de 25 años, casi la mitad combina estudio y empleo, y una cuarta parte tiene responsabilidades familiares. Este nuevo escenario exige que las instituciones adapten su oferta a modalidades más flexibles —como programas virtuales, nocturnos o modulares— que respondan a las necesidades de quienes buscan reinsertarse o mejorar su formación sin abandonar su trabajo.
+4. **Persistencia de brechas de equidad**  
+   Los estudiantes vulnerables enfrentan mayor riesgo de abandono. Se necesita acompañamiento integral que combine apoyo académico, psicológico y económico.
 
-Las brechas de equidad no solo están en el acceso, sino en la permanencia. Los estudiantes vulnerables que logran ingresar a la educación superior enfrentan un riesgo tres veces mayor de desertar. Sin acompañamiento académico, psicológico y financiero, el acceso se convierte en una deserción diferida. Por ello, los programas de tutoría, orientación vocacional y apoyo socioemocional son tan importantes como los esfuerzos de admisión. El reto no es solo matricular más estudiantes, sino garantizar que lleguen hasta la graduación.
+5. **Desigualdad territorial**  
+   La concentración educativa en Lima limita las oportunidades en otras regiones. La educación a distancia puede ayudar a reducir esta brecha si se mejora la conectividad y el soporte tecnológico.
 
-La desigualdad territorial sigue definiendo las oportunidades. Nacer en Lima o en Loreto puede significar una diferencia de 30 puntos porcentuales en el acceso a la educación superior. La centralización educativa se concentra en pocos departamentos, mientras que más de 15 regiones carecen de oferta suficiente o infraestructura moderna. La educación a distancia aparece como una solución viable para democratizar el acceso, pero su éxito depende de la conectividad, la disponibilidad de dispositivos y el acompañamiento pedagógico.
+6. **Desconexión con el mercado laboral**  
+   Muchas carreras populares no garantizan empleabilidad, mientras que otras con alta demanda carecen de profesionales. Es clave alinear la oferta educativa con las necesidades reales del mercado.
 
-El mercado laboral no está guiando las decisiones educativas. Las carreras más demandadas, como Administración, Derecho y Contabilidad, presentan las tasas más altas de subempleo, mientras que áreas con alta demanda laboral, como Enfermería, Educación rural e Ingeniería de Datos, enfrentan déficit de profesionales. Esto revela una desconexión entre la elección vocacional y las oportunidades reales del mercado. La creación de sistemas de información transparentes sobre empleabilidad por carrera puede ayudar a los jóvenes a tomar decisiones más informadas.
+7. **Uso de datos para prevenir deserción**  
+   Los modelos predictivos permiten identificar estudiantes en riesgo y mejorar la retención. Los datos se consolidan como herramientas clave para una gestión educativa más efectiva.
 
-Los datos se han consolidado como aliados estratégicos para la retención estudiantil. Los modelos predictivos basados en machine learning logran identificar más del 80% de los casos de deserción potencial, superando ampliamente la precisión de las evaluaciones manuales. Variables como la asistencia del primer mes resultan ser mejores indicadores que las notas de ingreso. Las instituciones que han implementado sistemas de alerta temprana basados en datos muestran aumentos de hasta 15% en la tasa de retención anual.
+8. **Brecha en recursos educativos**  
+   Las diferencias de inversión entre universidades públicas y privadas amplían la desigualdad. Reforzar la calidad y financiamiento de las instituciones públicas es esencial.
 
-La inequidad en recursos educativos sigue reproduciendo desigualdad. Un estudiante de nivel socioeconómico alto accede a diez veces más recursos académicos que uno de bajos ingresos. Mientras que las universidades privadas de élite invierten alrededor de S/15,000 por estudiante al año, las públicas apenas alcanzan S/4,500. Esta brecha no solo afecta la calidad educativa, sino que perpetúa las diferencias sociales. Invertir en universidades públicas con calidad equiparable es clave para reducir la desigualdad intergeneracional.
+9. **Educación virtual como oportunidad**  
+   La virtualidad ha ampliado el acceso, especialmente en zonas rurales. Su éxito depende de la infraestructura digital y de una adecuada formación docente.
 
-La virtualidad, lejos de ser un problema, representa una oportunidad para expandir la cobertura educativa. Entre 2021 y 2023, los programas virtuales crecieron un 40% anual, permitiendo el acceso de estudiantes en regiones remotas. Sin embargo, su efectividad depende de la infraestructura tecnológica, la capacitación docente y el diseño pedagógico adaptado. La educación digital puede cerrar brechas geográficas, pero también exige una alfabetización digital sólida para evitar nuevas formas de exclusión.
+10. **Brechas de género en áreas STEM**  
+    Aunque hay paridad en la matrícula total, las mujeres siguen subrepresentadas en carreras tecnológicas. Promover referentes y programas de equidad puede cambiar esta tendencia.
 
-Finalmente, aunque existe paridad de género en la matrícula general, persisten grandes diferencias por campo de estudio. Las mujeres representan el 51% del total de estudiantes, pero solo el 28% en áreas STEM. Los estereotipos de género siguen influyendo desde la educación básica y se reflejan en una brecha salarial del 15% entre egresadas y egresados. Impulsar programas de mentoría, referentes femeninos y campañas de orientación temprana en carreras tecnológicas es esencial para avanzar hacia una equidad sustantiva en el ámbito educativo y laboral.
-
----
 
 ## 6. RECOMENDACIONES 
 
