@@ -3,32 +3,80 @@
 Este proyecto realiza un análisis de datos académicos reales de estudiantes peruanos matriculados en el año 2023. El objetivo es extraer información valiosa sobre las características de los estudiantes, su distribución en las instituciones y detectar factores asociados al riesgo académico.
 
 ---
+##  2. OBJETIVOS DEL ANÁLISIS
 
-##  Objetivo General
-
-Analizar y modelar datos de matrícula educativa en Perú para:
-
-- Entender el perfil académico y demográfico de los estudiantes.
-- Visualizar tendencias por género, facultad, modalidad de estudio y turnos.
-- Detectar patrones en los estudiantes con cursos en riesgo académico.
-- Predecir el riesgo académico usando técnicas de Machine Learning.
+### 2.1 Objetivo General
+Analizar los patrones, tendencias y determinantes de la matrícula estudiantil en el sistema educativo peruano durante 2023, identificando factores de riesgo de deserción y proponiendo estrategias basadas en evidencia para mejorar el acceso, la retención y el éxito estudiantil.
 
 ---
-##  Preguntas de análisis
 
-1.¿Qué facultades concentran la mayor cantidad de estudiantes?
+### 2.2 Objetivos Específicos
 
-2.¿Cuál es la distribución de matrícula por género y edad?
+ 1.Caracterización de la Matrícula  
+- Describir la distribución de estudiantes por nivel educativo, edad, género y ubicación.  
+- Identificar tendencias de crecimiento/decrecimiento y concentración geográfica.  
 
-3.¿Qué porcentaje de estudiantes se encuentra en riesgo académico?
+2. Análisis de Brechas y Equidad**  
+- Cuantificar brechas de género, ubicación y nivel socioeconómico.  
+- Detectar desigualdades urbano-rurales y déficit educativo por departamento.  
 
-4.¿Existe relación entre el riesgo académico y el estado de pago de matrícula?
+3. Gestión Pública vs Privada  
+- Comparar matrícula, recursos y capacidad instalada entre instituciones públicas y privadas.  
+- Analizar migración y tendencias de preferencia por tipo de gestión.  
 
-5.¿Qué variables influyen más en la predicción del riesgo académico?
+4. Predicción de Deserción  
+- Identificar variables predictoras del abandono escolar.  
+- Construir un modelo de clasificación de riesgo y segmentar estudiantes por nivel de vulnerabilidad.  
 
-6.¿Qué conclusiones pueden ayudar a mejorar la retención estudiantil?
+5. Demanda por Carreras  
+- Analizar carreras con mayor o menor demanda y su alineación con el mercado laboral.  
+- Detectar áreas saturadas y campos emergentes (tecnología, salud, sostenibilidad).  
+
+6. Recomendaciones Estratégicas  
+- Proponer políticas diferenciadas de retención y cobertura.  
+- Sugerir sistemas de alerta temprana y optimización de recursos institucionales.  
 
 ---
+
+##  3. PREGUNTAS DE INVESTIGACIÓN
+
+¿Cómo ha evolucionado la matrícula en Perú entre 2019 y 2023, y cuáles son las proyecciones para 2024-2025?  
+- Impacto de la pandemia (2020-2021) y recuperación posterior.  
+- Niveles educativos y regiones con mayor dinamismo.
+  
+¿Cuáles son las características demográficas y socioeconómicas de los estudiantes?  
+- Distribución por género, edad, zona urbana/rural y nivel socioeconómico.  
+- Proporción de estudiantes que trabajan o pertenecen a sectores vulnerables.
+
+¿Existen desigualdades significativas en el acceso educativo?  
+- Brechas de género, ubicación y nivel socioeconómico.  
+- Departamentos con menor cobertura o población no atendida.
+
+¿Cómo se distribuye la matrícula entre instituciones públicas y privadas?  
+- Factores asociados a la elección de gestión.  
+- Diferencias en retención, cobertura y desempeño.
+
+¿Qué factores predicen la deserción estudiantil y qué proporción de alumnos está en riesgo?  
+- Perfil del estudiante vulnerable.  
+- Variaciones por nivel educativo y tipo de institución.
+
+¿Cuáles son las carreras más y menos demandadas, y cómo se alinean con la empleabilidad?  
+- Carreras emergentes vs saturadas.  
+- Ajustes necesarios en la oferta académica.
+
+¿Cómo se distribuye la matrícula en el territorio nacional?  
+- Relación entre matrícula y PIB regional.  
+- Zonas con déficit de infraestructura y necesidad de inversión.
+
+¿Qué acciones pueden mejorar el acceso, la retención y la equidad educativa?  
+- Impacto de programas de becas y apoyo.  
+- Políticas efectivas en zonas rurales y en equidad de género (especialmente en STEM).
+
+---
+
+📘 **Resumen General:**  
+El análisis busca ofrecer una visión integral del sistema educativo peruano, combinando estadísticas, segmentación y modelado predictivo para **comprender la dinámica de matrícula, detectar brechas estructurales** y **proponer estrategias basadas en evidencia** que fortalezcan la equidad y la eficiencia educativa en el país.
+
 ##  Dataset
 
 - **Fuente**: [Kaggle - Peru Student Enrollment Data 2023](https://www.kaggle.com/datasets/miguelmallqui17/peru-student-enrollment-data-2023)
