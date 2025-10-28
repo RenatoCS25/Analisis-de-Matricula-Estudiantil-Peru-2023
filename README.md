@@ -6,35 +6,24 @@ Este proyecto realiza un análisis de datos académicos reales de estudiantes pe
 ##  2. OBJETIVOS DEL ANÁLISIS
 
 ### 2.1 Objetivo General
-Analizar los patrones, tendencias y determinantes de la matrícula estudiantil en el sistema educativo peruano durante 2023, identificando factores de riesgo de deserción y proponiendo estrategias basadas en evidencia para mejorar el acceso, la retención y el éxito estudiantil.
+El objetivo general de este análisis es identificar los patrones, tendencias y determinantes de la matrícula estudiantil en el sistema educativo peruano durante el año 2023, con el propósito de comprender los factores que influyen en la permanencia, deserción y éxito académico de los estudiantes. A partir de esta evidencia, se busca formular estrategias y recomendaciones que contribuyan a mejorar el acceso, la equidad y la calidad educativa en el país.
 
 ---
 
 ### 2.2 Objetivos Específicos
 
- 1.Caracterización de la Matrícula  
-- Describir la distribución de estudiantes por nivel educativo, edad, género y ubicación.  
-- Identificar tendencias de crecimiento/decrecimiento y concentración geográfica.  
+1. Caracterizar la matrícula estudiantil en los distintos niveles educativos, analizando su distribución por edad, género, ubicación geográfica y tipo de institución, para comprender cómo se comporta la demanda educativa en el país.
 
-2. Análisis de Brechas y Equidad**  
-- Cuantificar brechas de género, ubicación y nivel socioeconómico.  
-- Detectar desigualdades urbano-rurales y déficit educativo por departamento.  
+2. Analizar las brechas y desigualdades en el acceso a la educación, identificando diferencias por género, zona urbana o rural y nivel socioeconómico, con el fin de reconocer los grupos y regiones más vulnerables.
 
-3. Gestión Pública vs Privada  
-- Comparar matrícula, recursos y capacidad instalada entre instituciones públicas y privadas.  
-- Analizar migración y tendencias de preferencia por tipo de gestión.  
+3. Comparar la matrícula entre instituciones públicas y privadas, evaluando la distribución de recursos, la capacidad instalada y la evolución de la preferencia de los estudiantes hacia uno u otro tipo de gestión.
 
-4. Predicción de Deserción  
-- Identificar variables predictoras del abandono escolar.  
-- Construir un modelo de clasificación de riesgo y segmentar estudiantes por nivel de vulnerabilidad.  
+4. Identificar los factores que explican la deserción estudiantil, mediante el uso de análisis estadístico o modelos predictivos que permitan detectar estudiantes en riesgo y anticipar posibles escenarios de abandono escolar.
 
-5. Demanda por Carreras  
-- Analizar carreras con mayor o menor demanda y su alineación con el mercado laboral.  
-- Detectar áreas saturadas y campos emergentes (tecnología, salud, sostenibilidad).  
+5. Examinar la demanda por carreras y programas académicos, determinando cuáles presentan mayor o menor número de matriculados y cómo se relacionan con las necesidades actuales del mercado laboral.
 
-6. Recomendaciones Estratégicas  
-- Proponer políticas diferenciadas de retención y cobertura.  
-- Sugerir sistemas de alerta temprana y optimización de recursos institucionales.  
+6. Proponer recomendaciones estratégicas orientadas a mejorar la cobertura, la retención y la calidad educativa, impulsando políticas diferenciadas y el uso eficiente de los recursos en el sistema educativo peruano.
+
 
 ---
 
