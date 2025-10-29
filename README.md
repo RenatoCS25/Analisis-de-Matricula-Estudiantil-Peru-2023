@@ -60,7 +60,7 @@ Identificar los patrones, tendencias y determinantes de la matrícula estudianti
 
 ---
 
-##  Fases del Proyecto
+## 2. FASES DEL PROYECTO
 
 ### 1. **Carga y Limpieza de Datos**
 - Conversión de variables numéricas (pagos, cursos)
@@ -87,7 +87,7 @@ Se generan y guardan estos gráficos:
 
 ---
 
-## 4. PRINCIPALES HALLAZGOS
+## 3. PRINCIPALES HALLAZGOS
 
 Entre 2019 y 2023, la matrícula educativa en el Perú mostró una fuerte contracción durante la pandemia, con caídas de entre 8% y 12% en 2020, especialmente en educación inicial, mientras que la educación superior demostró resiliencia gracias a la virtualidad, creciendo cerca del 2% anual. Aunque el sistema ha mostrado recuperación sostenida desde 2022, los niveles actuales aún se mantienen un 5% por debajo de los registrados antes del COVID-19. Este contexto evidencia la necesidad de estrategias de reincorporación y recuperación de aprendizajes para los estudiantes que abandonaron el sistema educativo.
 
@@ -105,7 +105,7 @@ En el plano territorial, las desigualdades son marcadas. Lima, Arequipa, Ica, Mo
 
 Finalmente, el ratio estudiante-docente promedia 18 por cada profesor, dentro del rango aceptable según estándares internacionales, aunque en zonas rurales asciende a 28:1, lo que refleja un déficit docente estimado en 15,000 profesores. Estas evidencias confirman que el sistema educativo peruano enfrenta un doble desafío: mejorar la equidad territorial y socioeconómica, y adaptar su oferta formativa a las transformaciones tecnológicas y laborales emergentes.
 
-## 5.Insights
+## 4. INSIGHTS
 
 1. **Primer año como etapa crítica**  
    La mayoría de los casos de deserción ocurren durante el primer año. Este periodo requiere acompañamiento académico y emocional, ya que una intervención temprana puede prevenir el abandono.
@@ -138,7 +138,7 @@ Finalmente, el ratio estudiante-docente promedia 18 por cada profesor, dentro de
     Aunque hay paridad en la matrícula total, las mujeres siguen subrepresentadas en carreras tecnológicas. Promover referentes y programas de equidad puede cambiar esta tendencia.
 
 
-## 6. RECOMENDACIONES 
+## 5. RECOMENDACIONES 
 
 1. Se propone un conjunto de acciones coordinadas entre el Estado, las instituciones educativas y las familias para mejorar la permanencia y equidad en la educación superior del país.  
 
