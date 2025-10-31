@@ -97,25 +97,14 @@ El modelo predictivo logró una precisión del 70–85%, identificando como vari
 
 ## 5. RECOMENDACIONES 
 
-1. Se propone un conjunto de acciones coordinadas entre el Estado, las instituciones educativas y las familias para mejorar la permanencia y equidad en la educación superior del país.  
+1. Políticas y gestión educativa
+Se propone fortalecer la equidad territorial mediante estrategias que impulsen el desarrollo institucional en regiones con menor acceso educativo.Para promover la conectividad digital y garantizar recursos tecnológicos que faciliten el aprendizaje en contextos diversos. Asimismo, se recomienda incentivar la actualización curricular hacia áreas emergentes y fomentar la participación equitativa en todos los campos del conocimiento.
 
-2. El Estado debe liderar políticas de retención estudiantil, descentralización y orientación vocacional, junto con una inversión sostenida en infraestructura y becas que aseguren igualdad de oportunidades. Estas medidas buscan fortalecer la calidad educativa y reducir las brechas regionales y socioeconómicas.  
+2. Instituciones educativas
+Las instituciones deben adoptar modelos de enseñanza flexibles, combinando modalidades presenciales y virtuales para ampliar el acceso y optimizar recursos. Es necesario actualizar los programas académicos incorporando competencias digitales y mecanismos de seguimiento de la empleabilidad, de modo que la oferta formativa se mantenga alineada con las necesidades del entorno laboral. La colaboración interinstitucional puede fortalecer la cobertura y la calidad educativa en distintas regiones.
 
-3. Las instituciones educativas deben implementar sistemas de alerta temprana, programas de nivelación y modalidades de estudio flexibles que respondan a las distintas realidades de los estudiantes. Además, deben fortalecer su vinculación con el sector productivo y rediseñar sus primeros años de formación para garantizar una transición exitosa hacia la vida universitaria.  
-
-4. Para los estudiantes y sus familias, se promueve una toma de decisiones más informada al elegir carrera e institución, así como estrategias de persistencia ante dificultades económicas, académicas o personales, fomentando la búsqueda temprana de apoyo.  
-
-5. En materia de financiamiento, se recomienda ampliar los programas de becas y créditos educativos con criterios más inclusivos y sostenibles, de modo que nadie abandone sus estudios por motivos económicos.  
-
-6. Finalmente, se destaca el uso estratégico de la tecnología y los datos como herramienta clave para personalizar el aprendizaje, monitorear el sistema educativo y diseñar políticas basadas en evidencia que impulsen la mejora continua del sistema.  
-
-##  Resultados esperados
-
-- Identificación de grupos estudiantiles con mayor riesgo
-- Base de conocimiento para planes de intervención educativa
-- Primer paso hacia sistemas de alerta temprana
-
----
+3. Estudiantes y orientación profesional
+Se sugiere una toma de decisiones académicas basada en información sobre tendencias del mercado laboral y oportunidades de desarrollo. La combinación de formación profesional con habilidades tecnológicas y digitales permitirá ampliar la empleabilidad y adaptarse a los nuevos contextos productivos. Elegir modalidades y programas que se ajusten al perfil personal y profesional contribuirá a un aprendizaje más eficiente y sostenible.
 
 ##  Ejecución del proyecto
 
