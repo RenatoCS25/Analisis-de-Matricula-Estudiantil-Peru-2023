@@ -78,22 +78,6 @@ Se sintetizaron los principales hallazgos, contextualizados en el sector educati
 
 ---
 
-## 3. PRINCIPALES HALLAZGOS
-
-Entre 2019 y 2023, la matrícula educativa en el Perú sufrió una fuerte contracción durante la pandemia, con caídas de hasta 12%, especialmente en educación inicial. Desde 2022 se observa una recuperación gradual, aunque los niveles siguen 5% por debajo de los previos al COVID-19. La educación superior fue la más resiliente gracias a la virtualidad, con un crecimiento acumulado de 18%, mientras que la secundaria continúa estancada y la inicial permanece rezagada (-5%).
-
-El sector privado ha crecido con fuerza (25% vs. 8% público), alcanzando el 76% de participación en educación superior, lo que amplía las brechas socioeconómicas. Además, la matrícula se concentra en Lima Metropolitana (42%) y cinco regiones (68% del total), evidenciando una fuerte centralización educativa.
-
-En cuanto al perfil del estudiante, existe paridad de género general, aunque las mujeres siguen subrepresentadas en carreras STEM (solo 30%). Cerca del 25% vive en pobreza y casi la mitad trabaja mientras estudia, lo que eleva el riesgo de deserción, especialmente entre los sectores bajos y rurales (solo 12% de universitarios provienen de zonas rurales).
-
-La deserción es crítica: en 2023 alcanzó 18.5%, con 28% de abandono en el primer año y 40% acumulado. Los principales factores son económicos, académicos y geográficos. Aproximadamente uno de cada cuatro estudiantes está en riesgo alto de abandonar sus estudios.
-
-Las carreras más demandadas —Administración, Derecho, Contabilidad, Educación e Ingeniería de Sistemas— concentran más del 50% de la matrícula pero muestran saturación laboral. En cambio, crecen con fuerza las áreas tecnológicas (Ciencia de Datos, Ciberseguridad, Marketing Digital) y hay déficit en Educación rural, Enfermería e Ingeniería ambiental.
-
-Persisten grandes desigualdades territoriales: Lima, Arequipa, Ica, Moquegua y Tacna presentan alta cobertura, mientras que regiones como Loreto y Huancavelica muestran rezagos de hasta 30 puntos. En zonas rurales, el 78% de distritos carece de centros superiores y el 45% de conectividad adecuada, requiriéndose una inversión de S/ 2,500 millones.
-
-Finalmente, el ratio estudiante-docente es de 18:1, aunque en áreas rurales sube a 28:1, con un déficit estimado de 15,000 docentes. El sistema enfrenta así un doble reto: reducir las desigualdades territoriales y socioeconómicas, y alinear su oferta formativa a las nuevas demandas tecnológicas y laborales.
-
 ## 4. INSIGHTS
 
 1. Alta Concentración Geográfica
