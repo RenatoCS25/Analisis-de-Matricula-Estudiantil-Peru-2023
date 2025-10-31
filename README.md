@@ -20,6 +20,12 @@ El problema central radica en la falta de información integrada y analizada que
 5. ¿Qué tendencias se observan en la demanda por áreas académicas o programas educativos en los distintos niveles?  
 6. ¿Qué estrategias podrían aplicarse para mejorar la retención y reducir las brechas educativas?
 
+1. ¿Cuáles son los departamentos con mayor concentración de matrícula?
+2. ¿Qué programas académicos tienen mayor demanda?
+3. ¿Cuál es la distribución de estudiantes por tipo de institución?
+4. ¿Qué modalidad de estudio predomina?
+5. ¿Existen diferencias significativas por género en la elección de carreras?
+6. ¿Es posible predecir la modalidad de estudio de un estudiante?
 ---
 
 ### Objetivo general
@@ -36,6 +42,19 @@ Identificar los patrones, tendencias y determinantes de la matrícula estudianti
 4. Identificar los factores que influyen en la deserción estudiantil utilizando herramientas analíticas o predictivas.  
 5. Examinar la relación entre la matrícula y la demanda de áreas académicas en función del contexto socioeconómico.  
 6. Proponer estrategias y recomendaciones orientadas a fortalecer la cobertura, equidad y retención en el sistema educativo.
+
+Objetivo General
+Analizar la distribución y características de la matrícula estudiantil en Perú 2023 para identificar patrones, brechas y oportunidades que optimicen la oferta educativa.
+Objetivos Específicos
+
+1. Caracterizar la distribución geográfica de la matrícula e identificar zonas con déficit de acceso
+2. Identificar programas académicos de alta demanda para alinear la oferta educativa
+3. Analizar preferencias de modalidad de estudio y su relación con variables demográficas
+4. Detectar correlaciones entre variables clave que influyen en decisiones educativas
+5. Desarrollar un modelo predictivo básico para anticipar tendencias de matrícula
+6. Generar recomendaciones estratégicas basadas en datos
+
+
 
 ---
 
@@ -59,31 +78,27 @@ Identificar los patrones, tendencias y determinantes de la matrícula estudianti
 - VS Code / Jupyter Notebook
 
 ---
+## 2. METODOLOGIA
 
-## 2. FASES DEL PROYECTO
+1. Exploración y Limpieza de Datos
 
-### 1. **Carga y Limpieza de Datos**
-- Conversión de variables numéricas (pagos, cursos)
-- Relleno de valores nulos
-- Extracción de edad promedio desde rangos (`EDAD_MEDIA`)
-- Codificación de variables categóricas (`get_dummies`)
+Se importó y validó el dataset, corrigiendo valores nulos, duplicados y outliers. Se estandarizaron categorías, se ajustaron tipos de datos y se verificó la coherencia e integridad de la información para asegurar una base sólida de análisis.
 
-### 2. **Análisis Exploratorio (EDA)**
-- Distribución por género
-- Facultades con más matrícula
-- Porcentaje de estudiantes con riesgo académico
-- Relación entre número de cursos y riesgo
+2. Análisis Exploratorio de Datos (EDA)
 
-### 3. **Visualización**
-Se generan y guardan estos gráficos:
-- `facultades_top10.png`: Top 10 de facultades con más alumnos
-- `genero_piechart.png`: Distribución por género
-- `riesgo_cursos.png`: Comparación de cursos vs riesgo académico
+Se analizaron distribuciones por género, modalidad y departamento, así como relaciones entre variables mediante tablas cruzadas. Se identificaron los departamentos con mayor concentración y los programas académicos más demandados, apoyándose en visualizaciones como gráficos y mapas de calor.
 
-### 4. **Modelo Predictivo**
-- Modelo: `RandomForestClassifier`
-- Variables predictoras: género, edad, turno, modalidad, beneficios, institución
-- Métricas generadas: matriz de confusión, precisión, recall, F1-score
+3. Análisis Estadístico
+
+Se aplicó la prueba Chi-cuadrado para evaluar independencia entre variables, el índice de Herfindahl-Hirschman para medir concentración geográfica y análisis de correlación con un nivel de significancia de 0.05. Estos resultados respaldaron las conclusiones del estudio.
+
+4. Modelado Predictivo
+
+Se codificaron variables, se realizó la división train-test (75%-25%) y se entrenó un modelo Random Forest con hiperparámetros ajustados. El rendimiento se evaluó mediante accuracy, precision, recall y F1-score, analizando además la importancia de las variables.
+
+5. Generación de Insights
+
+Se sintetizaron los principales hallazgos, contextualizados en el sector educativo peruano. A partir de ellos, se propusieron recomendaciones basadas en evidencia para apoyar decisiones estratégicas y mejorar la gestión educativa.
 
 ---
 
@@ -105,36 +120,20 @@ Finalmente, el ratio estudiante-docente es de 18:1, aunque en áreas rurales sub
 
 ## 4. INSIGHTS
 
-1. **Primer año como etapa crítica**  
-   La mayoría de los casos de deserción ocurren durante el primer año. Este periodo requiere acompañamiento académico y emocional, ya que una intervención temprana puede prevenir el abandono.
+1. Alta Concentración Geográfica
+Más del 50% de la matrícula se concentra en Lima, La Libertad y Arequipa, evidenciando alta centralización. Esto refleja un acceso desigual a la educación superior y migración estudiantil hacia grandes ciudades, mientras que regiones de sierra y selva carecen de oferta educativa adecuada.
 
-2. **Impacto del factor económico**  
-   Las razones financieras siguen siendo la principal causa de deserción. Becas, apoyos parciales y horarios flexibles pueden marcar la diferencia en la continuidad educativa.
+2. Desequilibrio en la Oferta Académica
+Cinco programas reúnen más del 40% de la matrícula, predominando carreras tradicionales como Administración y Derecho. Existe una brecha entre la oferta actual y las demandas del mercado tecnológico, lo que genera saturación laboral y desaprovecha oportunidades en áreas emergentes como ciencia de datos e inteligencia artificial.
 
-3. **Cambio en el perfil del estudiante**  
-   Cada vez más estudiantes son adultos trabajadores o con responsabilidades familiares. Esto exige modalidades más flexibles y accesibles, como programas virtuales o nocturnos.
+3. Predominio de la Modalidad Presencial
+La educación presencial representa entre el 75% y 85% de la matrícula, mientras que zonas remotas optan más por la virtualidad. Esto plantea la oportunidad de expandir el acceso mediante educación en línea de calidad, aunque aún persiste resistencia cultural hacia las modalidades no presenciales.
 
-4. **Persistencia de brechas de equidad**  
-   Los estudiantes vulnerables enfrentan mayor riesgo de abandono. Se necesita acompañamiento integral que combine apoyo académico, psicológico y económico.
+4. Brecha de Género en Carreras STEM
+Pese a una distribución general equilibrada, las carreras STEM presentan una marcada desigualdad (70% hombres, 30% mujeres). Esto implica una pérdida significativa de talento femenino y la necesidad de promover incentivos y programas que fomenten la participación de mujeres en áreas tecnológicas.
 
-5. **Desigualdad territorial**  
-   La concentración educativa en Lima limita las oportunidades en otras regiones. La educación a distancia puede ayudar a reducir esta brecha si se mejora la conectividad y el soporte tecnológico.
-
-6. **Desconexión con el mercado laboral**  
-   Muchas carreras populares no garantizan empleabilidad, mientras que otras con alta demanda carecen de profesionales. Es clave alinear la oferta educativa con las necesidades reales del mercado.
-
-7. **Uso de datos para prevenir deserción**  
-   Los modelos predictivos permiten identificar estudiantes en riesgo y mejorar la retención. Los datos se consolidan como herramientas clave para una gestión educativa más efectiva.
-
-8. **Brecha en recursos educativos**  
-   Las diferencias de inversión entre universidades públicas y privadas amplían la desigualdad. Reforzar la calidad y financiamiento de las instituciones públicas es esencial.
-
-9. **Educación virtual como oportunidad**  
-   La virtualidad ha ampliado el acceso, especialmente en zonas rurales. Su éxito depende de la infraestructura digital y de una adecuada formación docente.
-
-10. **Brechas de género en áreas STEM**  
-    Aunque hay paridad en la matrícula total, las mujeres siguen subrepresentadas en carreras tecnológicas. Promover referentes y programas de equidad puede cambiar esta tendencia.
-
+5. Predictibilidad del Comportamiento Educativo
+El modelo predictivo logró una precisión del 70–85%, identificando como variables clave el departamento, programa y tipo de institución. Esto demuestra que las decisiones educativas siguen patrones predecibles, permitiendo anticipar la demanda y diseñar políticas focalizadas más efectivas.
 
 ## 5. RECOMENDACIONES 
 
