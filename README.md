@@ -13,13 +13,6 @@ El problema central radica en la falta de información integrada y analizada que
 
 ### Preguntas de negocio
 
-1. ¿Cómo se distribuye la matrícula estudiantil según edad, género, nivel educativo y tipo de institución en el Perú durante 2023?  
-2. ¿Existen diferencias significativas entre la matrícula en instituciones públicas y privadas a nivel nacional y regional?  
-3. ¿Qué regiones o departamentos presentan mayores niveles de desigualdad educativa o menor cobertura escolar?  
-4. ¿Cuáles son los factores más asociados a la deserción estudiantil y cómo pueden anticiparse?  
-5. ¿Qué tendencias se observan en la demanda por áreas académicas o programas educativos en los distintos niveles?  
-6. ¿Qué estrategias podrían aplicarse para mejorar la retención y reducir las brechas educativas?
-
 1. ¿Cuáles son los departamentos con mayor concentración de matrícula?
 2. ¿Qué programas académicos tienen mayor demanda?
 3. ¿Cuál es la distribución de estudiantes por tipo de institución?
@@ -28,22 +21,7 @@ El problema central radica en la falta de información integrada y analizada que
 6. ¿Es posible predecir la modalidad de estudio de un estudiante?
 ---
 
-### Objetivo general
-
-Identificar los patrones, tendencias y determinantes de la matrícula estudiantil en el sistema educativo peruano durante el año 2023, con el fin de comprender los factores que influyen en la permanencia, deserción y acceso equitativo a la educación, y así generar información útil para la toma de decisiones y políticas educativas.
-
----
-
-### Objetivos específicos
-
-1. Analizar la distribución de la matrícula por edad, género, nivel educativo, tipo de institución y ubicación geográfica.  
-2. Detectar las brechas de acceso y desigualdades entre zonas urbanas y rurales, así como entre regiones del país.  
-3. Evaluar la evolución de la matrícula en instituciones públicas y privadas y su impacto en la cobertura educativa.  
-4. Identificar los factores que influyen en la deserción estudiantil utilizando herramientas analíticas o predictivas.  
-5. Examinar la relación entre la matrícula y la demanda de áreas académicas en función del contexto socioeconómico.  
-6. Proponer estrategias y recomendaciones orientadas a fortalecer la cobertura, equidad y retención en el sistema educativo.
-
-Objetivo General
+### Objetivo del Analisis
 Analizar la distribución y características de la matrícula estudiantil en Perú 2023 para identificar patrones, brechas y oportunidades que optimicen la oferta educativa.
 Objetivos Específicos
 
@@ -53,8 +31,6 @@ Objetivos Específicos
 4. Detectar correlaciones entre variables clave que influyen en decisiones educativas
 5. Desarrollar un modelo predictivo básico para anticipar tendencias de matrícula
 6. Generar recomendaciones estratégicas basadas en datos
-
-
 
 ---
 
